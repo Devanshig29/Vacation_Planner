@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Final Exam</string>
+    <string name="label1">Vacation Planner App</string>
+    <string name="user">Username:</string>
+    <string name="pass">Password:</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="userpass">Password</string>
+    <string name="details">Vacation Details</string>
+    <string name="coun">Countries:</string>
+    <string name="number">No of Visitors:</string>
+    <string name="select">Select</string>
+    <string name="total">Your Total:</string>
+    <string name="visitors">Visitors</string>
+</resources>
