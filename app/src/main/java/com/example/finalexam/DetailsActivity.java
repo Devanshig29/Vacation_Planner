@@ -132,8 +132,6 @@ public class DetailsActivity extends AppCompatActivity {
         for(Places prd:plclist)
             if(prd.getCategory().equals(cat)) {
                 tempList.add(prd);
-                tempNames.add(prd.getPois());
-                tempCost.add(String.valueOf(prd.getLiving_cost()));
             }
     }
 
